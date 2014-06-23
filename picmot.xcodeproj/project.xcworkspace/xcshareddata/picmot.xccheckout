@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DFABDD37-C6B8-408A-BF09-C9731D98583F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>picmot</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>76DAC051-3A9B-4499-BECE-0D23CC967E3D</key>
+		<string>https://github.com/Chihir0415/picmot.xcodeproj.git</string>
+		<key>9451DE47-13E0-4830-B232-23F1A59A0031</key>
+		<string>https://github.com/Chihir0415/picmot.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>picmot.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>76DAC051-3A9B-4499-BECE-0D23CC967E3D</key>
+		<string>..</string>
+		<key>9451DE47-13E0-4830-B232-23F1A59A0031</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Chihir0415/picmot.xcodeproj.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9451DE47-13E0-4830-B232-23F1A59A0031</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9451DE47-13E0-4830-B232-23F1A59A0031</string>
+			<key>IDESourceControlWCCName</key>
+			<string>picmot</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>76DAC051-3A9B-4499-BECE-0D23CC967E3D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>picmot.xcodeproj</string>
+		</dict>
+	</array>
+</dict>
+</plist>
